@@ -30,10 +30,15 @@ Cerchiamo di non litigare per fare tutti .... le attività di .... sviluppo piat
 Il repository si può trovare all'indirizzo: https://waffle.io/pdipietro/Joinple-PM.
 
 Ogni stato di lavorazione delle attività è rappresentato da una colonna.
+
 Ogni nuova attività inserita viene automaticamente aggiunta nel Backlog.
+
 Le attività si spostano tra le varie colonne facendo drag&drop.
+
 Quando arriva il momento di svolgere un'attività, il responsabile dell'attività la sposta nella colonna In progress.
+
 Quando l'attività è terminata e deve essere condivisa con gli altri, il responsabile la sposta nella colonna Ready.
+
 Quando l'attività è anche stata condivisa e non necessita di ulteriori interventi, deve essere spostata nella colonna Done dal responsabile. Dopo una settimana le attività inserite in questo elenco vengono eliminate definitivamente automaticamente.
 
 Spero di non aver dimenticato nulla. Buon lavoro!

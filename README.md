@@ -17,9 +17,9 @@ Al momento per risolvere questa esigenza ho ipotizzato che ogni attività vada s
 In questo modo ognuno viene avvisato via mail quando gli altri pubblicano qualcosa al riguardo e la collaborazione viene facilitata.
 
 Ad ogni attività vengono assegnate delle label con diversi significati:
-* una che indica l'area tematica di svolgimento; al momento ne sono previste 4 che sono: company, found rising, business development, marketing. 
-* una che indica lo stato della lavorazione; quelle previste sono:ready, in progress, done, refused, remove;
-* ci sono poi altre label per gestire situazioni particolari: duplicate, enhancement,question.
+* una che indica l'area tematica di svolgimento; al momento ne sono previste 4 che sono: company, fund rising, business development, marketing. 
+* una che indica lo stato della lavorazione; quelle previste sono: ready, in progress, done, refused, removed;
+* ci sono poi altre label per gestire situazioni particolari: duplicate, enhancement, question.
 
 Al momento mi occupo io di questa attività di project management, a meno che qualcuno di voi non voglia e possa effettuarla.
 Indipendentemente da chi abbia l'onere dell'attività di project management, tutti noi partecipiamo alla gestione del repository per cui tutti possiamo inserire nuove attività e, nel caso sia concordato, anche assegnarle; diversamente le dovremo assegnare al project manager che se ne occuperà.

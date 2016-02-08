@@ -24,8 +24,11 @@ Ad ogni attività vengono assegnate delle label con diversi significati:
 Al momento mi occupo io di questa attività di project management, a meno che qualcuno di voi non voglia e possa effettuarla.
 Indipendentemente da chi abbia l'onere dell'attività di project management, tutti noi partecipiamo alla gestione del repository per cui tutti possiamo inserire nuove attività e, nel caso sia già concordato, anche assegnarle; diversamente le dovremo assegnare al project manager che se ne occuperà. Ognuno di noi, comunque, può decidere di svolgere le attività che crede ed assegnarsele, nel rispetto della suddivisione dei ruoli che ci siamo dati.
 
+Cerchiamo di non litigare per fare tutti .... le attività di .... sviluppo piattaforma :)
+
 ### Creazione e gestione attività
 Il repository si può trovare all'indirizzo: https://waffle.io/pdipietro/Joinple-PM.
+
 Ogni stato di lavorazione delle attività è rappresentato da una colonna.
 Ogni nuova attività inserita viene automaticamente aggiunta nel Backlog.
 Le attività si spostano tra le varie colonne facendo drag&drop.

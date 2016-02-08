@@ -12,7 +12,7 @@ Sono previsti quattro stati delle attività:
 Un limite fastidioso del prodotto è legato al fatto che, per ogni attività individuata, si può specificare solo il responsabile e non anche gli altri che parteciperanno allo svolgimento dell'attività. 
 Per molte attività invece noi abbiamo previsto di collaborare in più persone. 
 Al momento per risolvere questa esigenza ho ipotizzato che ogni attività vada splittata in N attività: 
-* quella primcipale che è assegnata al responsabile; 
+* quella principale che è assegnata al responsabile; 
 * altre N-1 attività, una per ogni persona che collabora; queste attività le chiamerei "Collaborazione a nome attività principale". 
 In questo modo ognuno viene avvisato via mail quando gli altri pubblicano qualcosa al riguardo e la collaborazione viene facilitata.
 

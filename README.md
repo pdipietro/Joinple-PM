@@ -7,7 +7,7 @@ Sono previsti quattro stati delle attività:
 * Backlog => Elenco di tutte le attività inserite e non ancora in lavorazione
 * In progress => Elenco attività in lavorazione;
 * Ready => Elenco attività eseguite, ma da discutere e condividere; 
-* Done=> Elenco attività terminate. 
+* Done => Elenco attività terminate. 
 
 Un limite fastidioso del prodotto è legato al fatto che, per ogni attività individuata, si può specificare solo il responsabile e non anche gli altri che parteciperanno allo svolgimento dell'attività. 
 Per molte attività invece noi abbiamo previsto di collaborare in più persone. 
@@ -29,17 +29,17 @@ Cerchiamo di non litigare per fare tutti .... le attività di .... sviluppo piat
 ### Creazione e gestione attività
 Il repository si può trovare all'indirizzo: https://waffle.io/pdipietro/Joinple-PM.
 
-Ogni stato di lavorazione delle attività è rappresentato da una colonna.
+* Ogni stato di lavorazione delle attività è rappresentato da una colonna.
 
-Ogni nuova attività inserita viene automaticamente aggiunta nel Backlog.
+* Ogni nuova attività inserita viene automaticamente aggiunta nel Backlog.
 
-Le attività si spostano tra le varie colonne facendo drag&drop.
+* Le attività si spostano tra le varie colonne facendo drag&drop.
 
-Quando arriva il momento di svolgere un'attività, il responsabile dell'attività la sposta nella colonna In progress.
+* Quando arriva il momento di svolgere un'attività, il responsabile dell'attività la sposta nella colonna In progress.
 
-Quando l'attività è terminata e deve essere condivisa con gli altri, il responsabile la sposta nella colonna Ready.
+* Quando l'attività è terminata e deve essere condivisa con gli altri, il responsabile la sposta nella colonna Ready.
 
-Quando l'attività è anche stata condivisa e non necessita di ulteriori interventi, deve essere spostata nella colonna Done dal responsabile. Dopo una settimana le attività inserite in questo elenco vengono eliminate definitivamente automaticamente.
+* Quando l'attività è anche stata condivisa e non necessita di ulteriori interventi, deve essere spostata nella colonna Done dal responsabile. Dopo una settimana le attività inserite in questo elenco vengono eliminate definitivamente automaticamente. La storia di tutte le attività svolte viene comunque memorizzata su Github:
 
 Spero di non aver dimenticato nulla. Buon lavoro!
 

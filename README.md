@@ -39,7 +39,7 @@ Il repository si può trovare all'indirizzo: https://waffle.io/pdipietro/Joinple
 
 * Quando l'attività è terminata e deve essere condivisa con gli altri, il responsabile la sposta nella colonna Ready.
 
-* Quando l'attività è anche stata condivisa e non necessita di ulteriori interventi, deve essere spostata nella colonna Done dal responsabile. Dopo una settimana le attività inserite in questo elenco vengono eliminate definitivamente automaticamente. La storia di tutte le attività svolte viene comunque memorizzata su Github:
+* Quando l'attività è anche stata condivisa e non necessita di ulteriori interventi, deve essere spostata nella colonna Done dal responsabile. Dopo una settimana le attività inserite in questo elenco vengono eliminate definitivamente automaticamente. La storia di tutte le attività svolte viene comunque memorizzata su Github.
 
 Spero di non aver dimenticato nulla. Buon lavoro!
 
